@@ -1,0 +1,41 @@
+body {
+background-color: #d1d2c2 ;
+font-family:  sans-serif;
+}
+
+.head {
+color: darkblue;
+}
+
+#bglime {
+    background-color: lime;
+}
+
+.red {
+    color: red;
+}
+
+#para {
+    color: purple;
+}
+
+p {
+color: white;
+}
+
+p span {
+color: black;
+font-size: xx-large;
+}
+
+ul li span{
+    background-color: blue;
+}
+
+ol li:nth-child(2){
+    color: blue;
+}
+
+ol li:nth-child(3){
+    color: red;
+}
